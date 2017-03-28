@@ -1,0 +1,27 @@
+<item>
+<title>RDX Goa</title>
+<link>http://play.hashcod.com/rdxgoalive/72781e965e0681e980034a778ee7067b.sdp/index.m3u8</link>
+<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/d0/40/ce/d040ce5f-31a4-5e7c-cc54-fb421cfef297/source/256x256bb.jpg</thumbnail>
+<fanart>http://www.srilankan.co.jp/imgs/srilanka/Beach/images/Beach%201%20-%20000867.jpg</fanart>
+</item>
+
+<item>
+<title>GCTV</title>
+<link>http://iptv.mstudiosystem.com:1935/gctv/livestream3/playlist.m3u8</link>
+<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/d0/40/ce/d040ce5f-31a4-5e7c-cc54-fb421cfef297/source/256x256bb.jpg</thumbnail>
+<fanart>http://www.srilankan.co.jp/imgs/srilanka/Beach/images/Beach%201%20-%20000867.jpg</fanart>
+</item>
+
+<item>
+<title>Prudent</title>
+<link>http://iptv.mstudiosystem.com:1935/prudentmedia/livestream3/playlist.m3u8</link>
+<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/d0/40/ce/d040ce5f-31a4-5e7c-cc54-fb421cfef297/source/256x256bb.jpg</thumbnail>
+<fanart>http://www.srilankan.co.jp/imgs/srilanka/Beach/images/Beach%201%20-%20000867.jpg</fanart>
+</item>
+
+<item>
+<title>DD News</title>
+<link>ttp://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8</link>
+<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/d0/40/ce/d040ce5f-31a4-5e7c-cc54-fb421cfef297/source/256x256bb.jpg</thumbnail>
+<fanart>http://www.srilankan.co.jp/imgs/srilanka/Beach/images/Beach%201%20-%20000867.jpg</fanart>
+</item>
