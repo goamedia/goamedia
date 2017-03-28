@@ -5,7 +5,7 @@
 <channel>
 <name>live</name>
 <thumbnail>http://i.imgur.com/Sc06zbg.png</thumbnail>
-<externallink>http://bit.ly/2nffqkA/externallink>
+<externallink>http://bit.ly/2nffqkA</externallink>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 <info>goamedia@mail.com</info>
 </channel>
