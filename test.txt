@@ -1,6 +1,6 @@
 <item>
-<title>do not click</title>
-<link>RqfezMMifL8</link>
-<thumbnail>https://i.ytimg.com/vi/9Qj50THsHII/hqdefault.jpg</thumbnail>
+<title>TV Lourdes</title>
+<utube>RqfezMMifL8</utube>
+<thumbnail>http://i.imgur.com/3jthMwL.png</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
