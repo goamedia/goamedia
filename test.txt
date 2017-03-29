@@ -1,6 +1,6 @@
 <item>
 <title>do not click</title>
-<link>https://i.ytimg.com/vi/9Qj50THsHII/hqdefault.jpg</link>
+<link>RqfezMMifL8</link>
 <thumbnail>https://i.ytimg.com/vi/9Qj50THsHII/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
