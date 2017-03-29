@@ -7,7 +7,7 @@
 
 <item>
 <title>TVest0</title>
-<link>http://link.theplatform.com/s/A4vtPC/media/pMbNj3w2D7dL?auto=true&player=CatholicTV%20Live-1280</link>
+<link>rtmp://presstv.fc.llnwd.net/presstv/PressTV swfUrl=http://www.presstv.ir/live/llnw/LLNWPlayer.swf playpath=PressTV app=PressTV live=true</link>
 <thumbnail>http://i.imgur.com/3jthMwL.png</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
