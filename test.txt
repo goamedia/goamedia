@@ -6,8 +6,22 @@
 </item>
 
 <item>
-<title>TVest</title>
-<link>http://www.catholictv.com/watch-live</link>
+<title>TVest0</title>
+<link>http://link.theplatform.com/s/A4vtPC/media/pMbNj3w2D7dL?auto=true&player=CatholicTV%20Live-1280</link>
+<thumbnail>http://i.imgur.com/3jthMwL.png</thumbnail>
+<fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
+</item>
+
+<item>
+<title>TVest1</title>
+<link>rtmp://162.212.176.219:1935/live/<playpath>Stream1 <swfUrl>https://ssl.p.jwpcdn.com/6/12/jwplayer.flash.swf <pageUrl>https://swf.tulix.tv/iframe/divine/index-us.php?autoplay=1</link>
+<thumbnail>http://i.imgur.com/3jthMwL.png</thumbnail>
+<fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
+</item>
+
+<item>
+<title>TVest2</title>
+<link>https://swf.tulix.tv/iframe/divine/index-us.php?autoplay=1</link>
 <thumbnail>http://i.imgur.com/3jthMwL.png</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
