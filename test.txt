@@ -14,7 +14,7 @@
 
 <item>
 <title>TVest1</title>
-<link>rtmp://162.212.176.219:1935/live/<playpath>Stream1 <swfUrl>https://ssl.p.jwpcdn.com/6/12/jwplayer.flash.swf <pageUrl>https://swf.tulix.tv/iframe/divine/index-us.php?autoplay=1</link>
+<link>rtmp://162.212.176.219:1935/live</link>
 <thumbnail>http://i.imgur.com/3jthMwL.png</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
