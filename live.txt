@@ -56,7 +56,7 @@
 
 <item>
 <title>DD News Live 24X7</title>
-<utube>TmMr7vVYM5k</utube>
+<utube>FoA29e5woPI</utube>
 <thumbnail>http://i.imgur.com/sVLnXT0.png</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
