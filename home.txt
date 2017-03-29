@@ -17,9 +17,7 @@
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 <info>goamedia@mail.com</info>
 </channel>
-</channels>
 
-<channels>
 <channel>
 <name>test</name>
 <thumbnail>http://i.imgur.com/LiYCbFD.png</thumbnail>
@@ -27,3 +25,4 @@
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 <info>goamedia@mail.com</info>
 </channel>
+</channels>
