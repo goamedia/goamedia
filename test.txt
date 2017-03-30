@@ -7,7 +7,7 @@
 
 <item>
 <title>Goodness TV</title>
-<link>https://live-fs.wmncdn.net/goodnesstv2/live2.stream/playlist.m3u8</link>
+<link>http://live-fs.wmncdn.net/goodnesstv2/live2.stream/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/De8FNMQ.png</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
