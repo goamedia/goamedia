@@ -15,20 +15,20 @@
 <item>
 <title>TVest0</title>
 <link>rtmp://presstv.fc.llnwd.net/presstv/PressTV swfUrl=http://www.presstv.ir/live/llnw/LLNWPlayer.swf playpath=PressTV app=PressTV live=true</link>
-<thumbnail>http://i.imgur.com/3jthMwL.png</thumbnail>
+<thumbnail>http://i.imgur.com/LiYCbFD.png</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
 
 <item>
 <title>TVest1</title>
 <link>rtmp://162.212.176.219:1935/live</link>
-<thumbnail>http://i.imgur.com/3jthMwL.png</thumbnail>
+<thumbnail>http://i.imgur.com/LiYCbFD.png</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
 
 <item>
-<title>TVest2</title>
-<link>https://swf.tulix.tv/iframe/divine/index-us.php?autoplay=1</link>
-<thumbnail>http://i.imgur.com/3jthMwL.png</thumbnail>
+<title>Divine TV (US)</title>
+<link>https://swf.tulix.tv/iframe/divine/index-us.php</link>
+<thumbnail>http://i.imgur.com/LiYCbFD.png</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
