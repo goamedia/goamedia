@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>Goodness TV</title>
+<link>https://live-fs.wmncdn.net/goodnesstv2/live2.stream/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/De8FNMQ.png</thumbnail>
+<fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
+</item>
+
+<item>
 <title>TVest0</title>
 <link>rtmp://presstv.fc.llnwd.net/presstv/PressTV swfUrl=http://www.presstv.ir/live/llnw/LLNWPlayer.swf playpath=PressTV app=PressTV live=true</link>
 <thumbnail>http://i.imgur.com/3jthMwL.png</thumbnail>
