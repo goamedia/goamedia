@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>Peppa Pig - Live</title>
+<utube>ZVMB-Cv16Yc</utube>
+<thumbnail>http://i.imgur.com/3jthMwL.png</thumbnail>
+<fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
+</item>
+
+<item>
 <title>TVest0</title>
 <link>rtmp://presstv.fc.llnwd.net/presstv/PressTV swfUrl=http://www.presstv.ir/live/llnw/LLNWPlayer.swf playpath=PressTV app=PressTV live=true</link>
 <thumbnail>http://i.imgur.com/LiYCbFD.png</thumbnail>
