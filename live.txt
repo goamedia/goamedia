@@ -49,14 +49,14 @@
 
 <item>
 <title>DD National</title>
-<utube>xPPV46KaR5o</utube>
+<utube>URoXGp-8e-4</utube>
 <thumbnail>http://i.imgur.com/CJQADSN.png</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
 
 <item>
 <title>DD News Live 24X7</title>
-<utube>FoA29e5woPI</utube>
+<utube>fEcsNlYJyes</utube>
 <thumbnail>http://i.imgur.com/sVLnXT0.png</thumbnail>
 <fanart>http://i.imgur.com/vDzP0GC.jpg</fanart>
 </item>
